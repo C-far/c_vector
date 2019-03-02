@@ -1,0 +1,8 @@
+{
+    "user": "C-far",
+    "repo": "c_vector",
+    "include_path": "include",
+    "dependencies": [
+        "pawn-lang/YSI-Includes@5.x"
+    ]
+}
